@@ -1,0 +1,11 @@
+name=input(      "Enter the name          : ")
+age=input(       "Enter the age           : ")
+city=input(      "Enter the city name     : ")
+number=int(input("Enter the mobile number : "))
+
+print("========= PROFILE =========")
+print(f"Name  : {name}")
+print(f"Age   : {age}")
+print(f"City  : {city}")
+print(f"Phone : {number}")
+print("===========================")

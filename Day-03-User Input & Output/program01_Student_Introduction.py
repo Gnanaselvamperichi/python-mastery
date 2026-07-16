@@ -1,0 +1,6 @@
+studename=input("Enter the student name : ")
+age=int(input("Enter the student age : "))
+college=input("Enter the college name : ")
+print(f"Name of the Student is {studename}")
+print(f"{studename} age is {age}")
+print(f"{studename} college name is {college}")
